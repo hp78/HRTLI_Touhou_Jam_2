@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: Pattern1(Chen)
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 4281396120661094, guid: dcb52b448df4915448c0b287a62e61c3,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: f685b4ca1b532a74a83d5f133555ed26, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 6
+  spawnAngleAddition: 60
+  intervalCount: 5
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0.25

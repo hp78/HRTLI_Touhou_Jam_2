@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: d8b30c8ee2764244ab7f5dcac3833eb4
+timeCreated: 1531593528
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - left: {instanceID: 0}
+  - leftPortrait: {instanceID: 0}
+  - leftEmote: {instanceID: 0}
+  - leftName: {instanceID: 0}
+  - leftDialogue: {instanceID: 0}
+  - right: {instanceID: 0}
+  - rightPortrait: {instanceID: 0}
+  - rightEmote: {instanceID: 0}
+  - rightName: {instanceID: 0}
+  - rightDialogue: {instanceID: 0}
+  - marisa: {fileID: 21300000, guid: ce366ced775941d43bafc6ad00e8994a, type: 3}
+  - chen: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - cirno: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - mystia: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - kanako: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - okuu: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - miko: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - shock: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - confused: {fileID: 21300000, guid: 622c54161bcc9394a9f6049736158a7a, type: 3}
+  - sweat: {fileID: 21300000, guid: ce366ced775941d43bafc6ad00e8994a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ea100d6790a5de4cb326fdd0fa8b877
+timeCreated: 1531463056
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bvControlScheme: {fileID: 11400000, guid: 5f089bcc862c9794797422bddc82f605, type: 2}
+  - bvPlayerAlive: {fileID: 11400000, guid: 4c6e09f77378c234ebc26bacdc86cc27, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

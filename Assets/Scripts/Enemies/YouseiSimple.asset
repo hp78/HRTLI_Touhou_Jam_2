@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b143d76cd026675438552e26642d1620, type: 3}
+  m_Name: YouseiSimple
+  m_EditorClassIdentifier: 
+  health: 1
+  movespeed: 3
+  bulletPattern: {fileID: 11400000, guid: 2d56027c208583844a569ea9ef12dc7b, type: 2}
+  range: 5
+  fireRateCooldown: 2
+  patternDrop: {fileID: 0}

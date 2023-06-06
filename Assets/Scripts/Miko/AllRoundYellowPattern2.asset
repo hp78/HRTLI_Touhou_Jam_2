@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: AllRoundYellowPattern2
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 4817379180329714, guid: 8681f228cd7705049a5cd845d27f6477,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: bded69594caaabc46a37560667d6348a, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 24
+  spawnAngleAddition: 15
+  intervalCount: 1
+  intervalAngleAddition: 0
+  initialDelay: 0.2
+  intervalDelay: 0

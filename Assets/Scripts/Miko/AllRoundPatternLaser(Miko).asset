@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9311c68eee37141b6c748579ebaa5a, type: 3}
+  m_Name: AllRoundPatternLaser(Miko)
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 4330168823761376, guid: 56204a66c13e9c34cb85af5b52305d10,
+    type: 2}
+  bulletType: {fileID: 11400000, guid: 621a7328e36535740ad0b5611862ad61, type: 2}
+  spawnDirectionOffset: 0
+  spawnCount: 8
+  spawnAngleAddition: 45
+  intervalCount: 2
+  intervalAngleAddition: 22.5
+  initialDelay: 0
+  intervalDelay: 5

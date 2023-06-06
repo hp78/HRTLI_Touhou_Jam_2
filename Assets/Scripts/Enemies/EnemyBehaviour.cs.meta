@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1efe4da880fd35428ffefb312ffab49
+timeCreated: 1531618117
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bvGamePaused: {fileID: 11400000, guid: d63d7bd28aa2f7749af45a268e5c6f3c, type: 2}
+  - bvGameRunning: {fileID: 11400000, guid: 493fb719854d3fa4b871484ef8c7df75, type: 2}
+  - enemyStats: {instanceID: 0}
+  - bulletDrop: {instanceID: 0}
+  - player: {instanceID: 0}
+  - bulletPF: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

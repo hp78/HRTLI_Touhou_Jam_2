@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerBullet
+  - PickUps
+  - EnemyBullet
+  - DetectionCircle
+  - Wall
+  - Destructible
+  - NotPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DetectionCircle
+  - Player
+  - Bullets
+  - PowerUpStackPrevention
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3832702383
+    locked: 0
+  - name: New Layer
+    uniqueID: 2111967053
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PickUps
+    uniqueID: 2030068909
+    locked: 0

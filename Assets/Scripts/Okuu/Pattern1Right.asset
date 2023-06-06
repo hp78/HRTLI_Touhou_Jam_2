@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ec07374d11c1047906f71d91727b01, type: 3}
+  m_Name: Pattern1Right
+  m_EditorClassIdentifier: 
+  shotIcon: {fileID: 0}
+  dropIcon: {fileID: 0}
+  bulletPrefab: {fileID: 4817379180329714, guid: 6a98f9b4a410eff41a61af88d0e9d830,
+    type: 2}
+  bulletPropertyList:
+  - bulletProperty: {fileID: 11400000, guid: 0824888f00a26f347ad2602745af3145, type: 2}
+    propertyLifetime: 2.3
+  - bulletProperty: {fileID: 11400000, guid: 36663b1ae85c0fe43afbdbcd8f7797b6, type: 2}
+    propertyLifetime: 5
+  spawnDirectionOffset: 0
+  spawnCount: 6
+  spawnAngleAddition: 60
+  intervalCount: 20
+  intervalAngleAddition: 0
+  initialDelay: 0
+  intervalDelay: 0.2
